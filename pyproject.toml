@@ -9,6 +9,7 @@ dependencies = [
     "langchain>=0.3.7",
     "pgvector>=0.3.6",
     "pydantic>=2.9.2",
+    "ruff>=0.7.4",
     "streamlit>=1.40.1",
     "typer>=0.13.0",
     "uvicorn>=0.32.0",
